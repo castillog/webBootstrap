@@ -3,7 +3,6 @@ img{
 }
 body{
 	font-family: 'Lato', sans-serif;
-	background-color: #DCDEE3;
 }
 .remove-float{
 	float: none;
@@ -17,9 +16,15 @@ body{
 .right-space a{
 	margin-right: 1em;
 }
+.bottom-space{
+	margin-bottom: 1em;
+}
 .green{
 	color: #00887C;
 }
 a{
 	color:#009FFF;
+}
+section{
+	background-color: #DCDEE3;
 }
